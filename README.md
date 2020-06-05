@@ -14,3 +14,7 @@ Os arquivos presentes neste repositório são frutos do desenvolvimento de ativi
 
 **_[Day 3](https://github.com/f-thms/next_level_week-starter/tree/master/Day_3)_**
 > _Criação da página "Resultados da pesquisa" usando HTML, CSS e JS._
+
+
+**_[Day 4](https://github.com/f-thms/next_level_week-starter/tree/master/Day_4)_**
+> _Criação do Backend usando NodeJS, Express e Template Engine com Nunjucks._
