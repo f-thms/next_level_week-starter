@@ -18,3 +18,12 @@ Os arquivos presentes neste repositório são frutos do desenvolvimento de ativi
 
 **_[Day 4](https://github.com/f-thms/next_level_week-starter/tree/master/Day_4)_**
 > _Criação do Backend usando NodeJS, Express e Template Engine com Nunjucks._
+
+**_[Day 5](https://github.com/f-thms/next_level_week-starter/tree/master/Day_5)_**
+> _Criação do Banco de Dados usando o SQLite e finalização do projeto._
+
+## Para executar o projeto, acesse a pasta "Day_5" e execute o comando:
+```sh
+npm start
+```
+Agora você já pode acessar a [página](http://localhost:3000/) e se divertir!
